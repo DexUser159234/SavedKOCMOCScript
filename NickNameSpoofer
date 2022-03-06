@@ -1,0 +1,4 @@
+x=Instance.new("Message",game.Players.LocalPlayer.PlayerGui)
+x.Text="This script not saved,sorry =("
+wait(4)
+x:Remove()
